@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hm1MxcghWNyw0qkqKKUBbhgQs6ejjTZDzZqFCfekQcMyAwJTpvvuEcHj4TotbrFiH+AmL6EjlhetW3nZBXeXdA==",
+  "dgSpecHash": "PiVsCEFpJ9aTG/7ANqzX3L6vknUl51eJ4/lquNx3vlbetXC3eySsb0/bBEpkIKDbDCoSaRAYpLSB5sHXXwyO4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\johnr\\Documents\\Documentos\\MisProyectos\\ControlProcesos\\NeuralProcessApi\\NeuralProcessApi\\NeuralProcessApi.csproj",
+  "projectFilePath": "C:\\Users\\johnr\\Documents\\Documentos\\JyLNeuralNet\\NeuralProcess\\NeuralProcessApi\\NeuralProcessApi\\NeuralProcessApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johnr\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\johnr\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

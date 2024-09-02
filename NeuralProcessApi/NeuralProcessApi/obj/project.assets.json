@@ -434,11 +434,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johnr\\Documents\\Documentos\\MisProyectos\\ControlProcesos\\NeuralProcessApi\\NeuralProcessApi\\NeuralProcessApi.csproj",
+      "projectUniqueName": "C:\\Users\\johnr\\Documents\\Documentos\\JyLNeuralNet\\NeuralProcess\\NeuralProcessApi\\NeuralProcessApi\\NeuralProcessApi.csproj",
       "projectName": "NeuralProcessApi",
-      "projectPath": "C:\\Users\\johnr\\Documents\\Documentos\\MisProyectos\\ControlProcesos\\NeuralProcessApi\\NeuralProcessApi\\NeuralProcessApi.csproj",
+      "projectPath": "C:\\Users\\johnr\\Documents\\Documentos\\JyLNeuralNet\\NeuralProcess\\NeuralProcessApi\\NeuralProcessApi\\NeuralProcessApi.csproj",
       "packagesPath": "C:\\Users\\johnr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johnr\\Documents\\Documentos\\MisProyectos\\ControlProcesos\\NeuralProcessApi\\NeuralProcessApi\\obj\\",
+      "outputPath": "C:\\Users\\johnr\\Documents\\Documentos\\JyLNeuralNet\\NeuralProcess\\NeuralProcessApi\\NeuralProcessApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
